@@ -1,0 +1,12 @@
+{
+    "HOME": {
+      "SELECT": "Ändere die Sprache",
+      "Regi":"Anmelde Formular",
+      "FName":"Vor Name",
+      "FNameError":"Vorname ist ein Pflichtfeld",
+      "LName":"Familien Name",
+      "LNameError":"Familien name ist ein Pflichtfeld",
+      "Default":"Legen Sie Standardwerte fest",
+      "Data":"Formular Daten"
+    }
+  }

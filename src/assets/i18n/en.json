@@ -1,0 +1,12 @@
+{
+    "HOME": {
+      "SELECT": "Change language",
+      "Regi":"Registration Form",
+      "FName":"First Name",
+      "FNameError":"First Name is a required field",
+      "LName":"Last Name",
+      "LNameError":"Last Name is a required field",
+      "Default":"Set Default Values",
+      "Data":"Form Data"
+    }
+}

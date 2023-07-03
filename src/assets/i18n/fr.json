@@ -1,0 +1,12 @@
+{
+    "HOME": {
+      "SELECT": "Changer de langue",
+      "Regi":"Formulaire d'inscription",
+      "FName":"Prénom",
+      "FNameError":"Le prénom est un champ obligatoire",
+      "LName":"Nom de famille",
+      "LNameError":"Le nom de famille est un champ obligatoire",
+      "Default":"Définir les valeurs par défaut",
+      "Data":"Données de formulaire"
+    }
+}
